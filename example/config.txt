@@ -1,0 +1,2 @@
+Prefix plugins/IDBA/example
+Plugin IDBA inputfile mergedreads.fa outputfile IDBA
